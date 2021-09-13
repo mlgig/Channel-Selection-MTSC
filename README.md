@@ -17,6 +17,9 @@ Loss/Gain in mean accuracy (∆ Acc) vs percentage time saved (% Time) with resp
 ![image](https://user-images.githubusercontent.com/20501023/127819519-dfae8b4f-9d46-4c98-bd0a-36331cfdb410.png)
 
 
+## Datasets
+Download and unzip the mtsc data from UCR-UEA archive to data folder. Uncomment the data for which results need to be obtained in dataset.py file.
+
 
 ## Running Experiments
 
