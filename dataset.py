@@ -5,7 +5,7 @@ dataset_ = [
     ##'CharacterTrajectories',
     #'Cricket',
     #'DuckDuckGeese',
-    #'ERing',
+    'ERing',
     #'EigenWorms',
     #'Epilepsy',
     #'EthanolConcentration',
