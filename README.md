@@ -28,3 +28,17 @@ To be updated
 ## Citation
 
 To be updated
+
+
+## Disclaimer
+
+These software distributions are open source, licensed under the GNU General Public License (v3 or later).
+Note that this is the full GPL, which allows many free uses, but does not allow its incorporation
+(even in part or in translation) into any type of proprietary software which you distribute.
+Commercial licensing is also available; please contact us if you are interested.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
