@@ -18,7 +18,7 @@ Loss/Gain in mean accuracy (∆ Acc) vs percentage time saved (% Time) with resp
 
 
 ## Datasets
-Download and unzip the mtsc data from UCR-UEA archive to data folder. Uncomment the data for which results need to be obtained in dataset.py file.
+Download and unzip the mtsc data from UCR-UEA archive to data folder. Uncomment the data for which results need to be obtained in `dataset.py` file.
 
 
 ## Running Experiments
