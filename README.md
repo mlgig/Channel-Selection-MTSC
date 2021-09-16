@@ -23,7 +23,9 @@ Download and unzip the mtsc data from UCR-UEA archive to data folder. Uncomment 
 
 ## Running Experiments
 
-To be updated
+`python3 -W ignore -u SOTA/file_name.py --help` <br>
+`python3 -W ignore -u SOTA/file_name.py --datadir data --tempres temp  --strategy ecs`
+
 
 ## Citation
 
