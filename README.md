@@ -29,8 +29,16 @@ Download and unzip the mtsc data from UCR-UEA archive to data folder. Uncomment 
 
 ## Citation
 
-To be updated
-
+```
+@inproceedings{dhariyal2021fast,
+  title={Fast Channel Selection for Scalable Multivariate Time Series Classification},
+  author={Dhariyal, Bhaskar and Nguyen, Thach Le and Ifrim, Georgiana},
+  booktitle={International Workshop on Advanced Analytics and Learning on Temporal Data},
+  pages={36--54},
+  year={2021},
+  organization={Springer}
+}
+```
 
 ## Disclaimer
 
