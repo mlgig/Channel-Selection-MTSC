@@ -1,4 +1,4 @@
-[**`Latest(DAMI)`**]([https://github.com/angus924/minirocket](https://github.com/mlgig/ChannelSelectionMTSC))
+[**`Latest(Data Mining & Knowledge Discovery)-2023`**](https://github.com/mlgig/ChannelSelectionMTSC)
 
 # Fast Channel Selection for Scalable Multivariate Time Series Classification
 Code Repo for paper AALTD@ECMLPKDD21 Paper
