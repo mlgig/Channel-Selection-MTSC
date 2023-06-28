@@ -1,5 +1,9 @@
+[**`Latest(DAMI)`**]([https://github.com/angus924/minirocket](https://github.com/mlgig/ChannelSelectionMTSC))
+
 # Fast Channel Selection for Scalable Multivariate Time Series Classification
 Code Repo for paper AALTD@ECMLPKDD21 Paper
+
+<mark> This the text </mark>  
 
 ## Abstract
 Multivariate time series record sequences of values using multiple sensors or channels. In the classification task, we have a class label associated with each multivariate time series. For example, a smartwatch captures the activity of a person over time, and there are typically multiple sensors capturing aspects of motion such as acceleration, orientation, heart beat. Existing Multivariate Time Series Classification (MTSC) algorithms do not scale well with large datasets, and this leads to extensive training and prediction times. This problem is attributed to an increase in the number of records (e.g., study participants), duration of recording (time series length), and number of channels (e.g., sensors). 
